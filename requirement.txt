@@ -1,0 +1,6 @@
+Django==1.11
+pbr==3.0.0
+pygobject==3.20.0
+pytz==2017.2
+six==1.10.0
+stevedore==1.21.0
